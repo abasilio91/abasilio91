@@ -4,6 +4,8 @@
 ## <font color=#14b1e0>About</font>
 Currently seeking for a position of Junior Data Scientist/Analyst.
 
+Master in Chemical Engineering by the Federal University of Uberlândia with great interest in process simulation and modelling.
+
 ## <font color=#14b1e0>Contact</font>
 [![Email](https://img.shields.io/badge/email-000?style=for-the-badge&logo=maildotru&logoColor=02e7f7)](mailto:adambasilio211@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=02e7f7)](https://www.linkedin.com/in/adam-basilio/)
