@@ -1,4 +1,4 @@
-# **<font color=#14b1e0>Adam Basilios</font>**
+# **<font color=#14b1e0>Adam Basilio</font>**
 
 
 ## <font color=#14b1e0>About</font>
